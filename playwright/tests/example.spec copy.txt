@@ -1,0 +1,67 @@
+// @ts-check
+const { test, expect } = require('@playwright/test');
+const {ContactUs} = require('../PageObjects/ContactUs');
+const {Tobi} = require('../PageObjects/Tobi');
+let webContext;
+
+// test.beforeAll(async({browser})=>
+// {  
+//   const Cookies = new ContactUs();
+//    webContext= await Cookies.acceptAndStoreCookies(browser);
+// })
+
+
+test('first playrwight', async ({page}) => {
+ // const page = await webContext.newPage();
+  
+  const tobi = new Tobi(page);
+ // await page.goto('https://www.vodafone.co.uk/contact-us/');
+  await tobi.acceptPageCookies();
+  await tobi.verifyTobiResponseContains("I’m TOBi - Vodafone’s chatbotAsk me anything, I’m here to help");
+  await tobi.customerAsksTobi ("hi");
+  await tobi.verifyTobiResponseContains("Hello! I’m here to answer questions about Vodafone. Just tell me in a few words what you need help with");
+  await tobi.customerAsksTobi ("i want to ask about new offer");
+
+ 
+ const [newPage] = await Promise.all([
+   webContext.waitForEvent('page'),
+   await page.locator('[href*=keep-my-number]').click(),
+  // Opens a new tab
+])
+await newPage.waitForLoadState();
+await expect(newPage).toHaveURL('https://www.vodafone.co.uk/my-vodafone-account/keep-my-number');
+await expect(newPage).toHaveTitle ('How to keep your number when changing phone or network');
+//await newPage.pause();
+});
+
+
+
+test('second playrwight', async () => {
+
+  const page =  await webContext.newPage();
+  await page.goto('https://www.vodafone.co.uk/contact-us/');
+  
+  // Expect a title "to contain" a substring.
+  await expect(page).toHaveTitle("How to get in touch with Vodafone");
+  //accept cookies
+ // await page.locator('#onetrust-accept-btn-handler').click();
+
+  await expect(page.locator("#message-index-0")).toBeVisible();
+
+  await page.locator('[name="chat"]').type("hi");
+
+  await page.locator('[aria-label="Send message"]').click();
+
+  await expect(page.locator("#message-index-2")).toBeVisible();
+ const text = await page.locator("#message-index-2").textContent();
+ console.log(text);
+  expect(text).toContain("Hello! I’m here to answer questions about Vodafone. Just tell me in a few words what you need help with")
+ await page.locator('[name="chat"]').type("i want to ask about new offer");
+ await page.locator('[aria-label="Send message"]').click();
+ await expect(page.locator("#message-index-4")).toBeVisible();
+ await page.locator('[href*=keep-my-number]').click();
+ //await page.pause();
+
+});
+
+

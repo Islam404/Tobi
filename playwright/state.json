@@ -1,0 +1,485 @@
+{
+  "cookies": [
+    {
+      "name": "ADRUM_BTa",
+      "value": "R:0|g:9e2af763-065c-4cd3-bc6a-617aae8e63a5|n:vodafoneuk_0496ac34-2f78-4719-95f5-4d9d710eae05",
+      "domain": "www.vodafone.co.uk",
+      "path": "/",
+      "expires": 1670974888.056602,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SameSite",
+      "value": "None",
+      "domain": "www.vodafone.co.uk",
+      "path": "/",
+      "expires": 1670974888.056621,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "-rwN3OIjAgoHe_fE8of5scYKrFezhSBpRWD_5qCiHUtc5wvsmO8e!-1827206615!-67840541",
+      "domain": "www.vodafone.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "BIGipServer~couk~www_live~couk_www_live_https_pool",
+      "value": "3363119276.52008.0000",
+      "domain": "www.vodafone.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "at_check",
+      "value": "true",
+      "domain": ".vodafone.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mbox",
+      "value": "session#07de0927607d44769033c01f9e4d9960#1670976719",
+      "domain": ".vodafone.co.uk",
+      "path": "/",
+      "expires": 1670976719,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "6pcN3OUJsx-sK4zh5bikoxovjGpEYFNqbVgMaSaArsP4f7J7W1PO!-553449671!2096508485",
+      "domain": "assets.vodafone.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "BIGipServer~couk~assets_live~couk_assets_live_https_pool",
+      "value": "1433739436.54568.0000",
+      "domain": "assets.vodafone.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TS01bb836e",
+      "value": "015c0e5d41ef908bd22fb03f9466a369f2a4961e7b4564091f626584daec9dc8ccef7da0616e54e0166a983cce4df20e1aae201ebf7654be69d3e7a6dfeb153f6261477f8fc387f1ba61932c4337258bc12c4cc77d",
+      "domain": "assets.vodafone.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TSd9f27c7a027",
+      "value": "089486fd30ab2000bb1977ee1331edfdf5e16b7f314a4b6bae70c3b59dd25d378c9128c0d7231e9408adeff93b113000133944d595c9620cb9e82f1d3568c3331328448318aac2da5b53859bfe6a65541e82b63ea208a14e5ab6f190d1d36e0d",
+      "domain": "assets.vodafone.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "demdex",
+      "value": "48992256964651421011661573337590548851",
+      "domain": ".demdex.net",
+      "path": "/",
+      "expires": 1686526861.988338,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AMCVS_BB2A12535131457C0A490D45%40AdobeOrg",
+      "value": "1",
+      "domain": ".vodafone.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "everest_g_v2",
+      "value": "g_surferid~Y5kNiwAAAJxjJwN-",
+      "domain": ".everesttech.net",
+      "path": "/",
+      "expires": 1702510859.374362,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "s_ecid",
+      "value": "MCMID%7C48669367990767406401691179512636892678",
+      "domain": ".vodafone.co.uk",
+      "path": "/",
+      "expires": 1705534860.693472,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "dpm",
+      "value": "48992256964651421011661573337590548851",
+      "domain": ".dpm.demdex.net",
+      "path": "/",
+      "expires": 1686526861.988242,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AMCV_BB2A12535131457C0A490D45%40AdobeOrg",
+      "value": "-1712354808%7CMCIDTS%7C19340%7CMCMID%7C48669367990767406401691179512636892678%7CMCAAMLH-1671579659%7C6%7CMCAAMB-1671579659%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1670982059s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-19347%7CvVersion%7C4.3.0",
+      "domain": ".vodafone.co.uk",
+      "path": "/",
+      "expires": 1705534859.780052,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wfivefivec",
+      "value": "DeJ0kbSE1P5eTp5",
+      "domain": ".w55c.net",
+      "path": "/",
+      "expires": 1705189260.235435,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uuid2",
+      "value": "641024018804836408",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1678750860.289168,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "matchdmx",
+      "value": "5",
+      "domain": ".w55c.net",
+      "path": "/",
+      "expires": 1673566860.23547,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mc",
+      "value": "63990d8c-3e07f-a1c19-ef7c0",
+      "domain": ".quantserve.com",
+      "path": "/",
+      "expires": 1705189260.50769,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tidal_ttid",
+      "value": "97ffa469-0797-4e1e-8967-7a21feb7a6b6",
+      "domain": ".tidaltv.com",
+      "path": "/",
+      "expires": 1702510860.509002,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUkQPQS2s2Adz0c0LBC8FtPdlZ5Y2_WGWALWs7juqB1YAGUiUiGb_To46mtMgks",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1705534860.521567,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "C",
+      "value": "1",
+      "domain": ".adform.net",
+      "path": "/",
+      "expires": 1673653260.645519,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sync-his",
+      "value": "\"H4sIAAAAAAAAADM0NjY2sDI0tAAApc4lOgkAAAA=\"",
+      "domain": ".tidaltv.com",
+      "path": "/",
+      "expires": 1702510860.645742,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "aam_uuid",
+      "value": "48992256964651421011661573337590548851",
+      "domain": ".vodafone.co.uk",
+      "path": "/",
+      "expires": 1673566860,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "A3",
+      "value": "d=AQABBIwNmWMCEBWUoPMdGPbJqF6L3EVdarwFEgEBAQFfmmOiYwAAAAAA_eMAAA&S=AQAAApHLloC-rqeUrlNYViiaJM4",
+      "domain": ".advertising.com",
+      "path": "/",
+      "expires": 1702532460.718943,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid",
+      "value": "658687185447829031",
+      "domain": ".adform.net",
+      "path": "/",
+      "expires": 1676158860.72045,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "A3",
+      "value": "d=AQABBIwNmWMCEEhp1eGquKkc-F2QdSF88XgFEgEBAQFfmmOiYwAAAAAA_eMAAA&S=AQAAAhQ5OR8LC5V9jjXUu4CyQvI",
+      "domain": ".yahoo.com",
+      "path": "/",
+      "expires": 1702532460.857893,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "id",
+      "value": "10812087176602738548",
+      "domain": ".mookie1.com",
+      "path": "/",
+      "expires": 1705102860.952289,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mdata",
+      "value": "1|10812087176602738548|1670974860667",
+      "domain": ".mookie1.com",
+      "path": "/",
+      "expires": 1705102860.952311,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ov",
+      "value": "29307f1d451b04b763a403c01ecd5e58",
+      "domain": ".mookie1.com",
+      "path": "/",
+      "expires": 1705102860.952324,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "dextp",
+      "value": "359-1-1670974859878|358-1-1670974859987|445-1-1670974860092|771-1-1670974860195|1175-1-1670974860300|1586-1-1670974860403|6835-1-1670974860507|30646-1-1670974860611|30862-1-1670974860715|81530-1-1670974860820|96420-1-1670974860923|139200-1-1670974861027",
+      "domain": ".demdex.net",
+      "path": "/",
+      "expires": 1686526861,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TestIfCookieP",
+      "value": "ok",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1702510861.045708,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pbw",
+      "value": "%24b%3d16100%3b%24o%3d11100",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1702510861.045722,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pid",
+      "value": "4021677449316117842",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1702510861.108265,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "jvxsync",
+      "value": "tpWweagMFb2R",
+      "domain": ".jivox.com",
+      "path": "/",
+      "expires": 1678750861.486663,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CONSENTMGR",
+      "value": "c1:1%7Cc2:1%7Cc3:1%7Cc4:1%7Cc5:1%7Cc6:1%7Cc7:0%7Cc8:1%7Cc9:0%7Cc10:1%7Cc11:1%7Cc12:1%7Cc13:1%7Cc14:1%7Cc15:1%7Cts:1670974858561%7Cconsent:true",
+      "domain": ".vodafone.co.uk",
+      "path": "/",
+      "expires": 1678750862,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TS01bb836e",
+      "value": "015c0e5d4103c52b0b3ea4d4f1019389ae24c75af5d4bf389566867621d2522d4150bbc6000f65bb1eb4e9f748f76b6982cf365063",
+      "domain": "www.vodafone.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TS2ce8c2a5027",
+      "value": "084d7f0589ab2000e4fee995f766fad39c4cb72824e6c18aee594aa5d7f35c37317e597438f7397e081416966c11300037159953a1480290936c31972a1d4d52d6d88727e02dbfb873fd56dd886db83fa3d03eccf652d018f71c47a9e2188736",
+      "domain": "www.vodafone.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ad-id",
+      "value": "A2s3M40u8kXWuS0te9gPFZ4",
+      "domain": ".amazon-adsystem.com",
+      "path": "/",
+      "expires": 1688254861.847491,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ad-privacy",
+      "value": "0",
+      "domain": ".amazon-adsystem.com",
+      "path": "/",
+      "expires": 1705534861.847554,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2022-12-13T23:41:02.213Z",
+      "domain": ".vodafone.co.uk",
+      "path": "/",
+      "expires": 1686526862,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isIABGlobal=false&datestamp=Wed+Dec+14+2022+01%3A41%3A02+GMT%2B0200+(Eastern+European+Standard+Time)&version=6.12.0&hosts=&consentId=e886e91e-5aba-40f8-b4cd-3bb672549778&interactionCount=1&landingPath=NotLandingPage&groups=1%3A1%2C3%3A1%2C2%3A1%2C4%3A1",
+      "domain": ".vodafone.co.uk",
+      "path": "/",
+      "expires": 1686526862,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "utag_main",
+      "value": "v_id:01850ddce54600514a28c273945805073002606b007e8$_sn:1$_se:2$_ss:0$_st:1670976662228$ses_id:1670974858568%3Bexp-session$_pn:1%3Bexp-session$vapi_domain:vodafone.co.uk$_prevpage:UK%3AUCMS%3Avodafone-uk%3Aapp%3AWebchat-ui%3Bexp-1670978462233",
+      "domain": ".vodafone.co.uk",
+      "path": "/",
+      "expires": 1702510862,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "inqState_10006330",
+      "value": "%7BVA%3A%5B%5D%2C_loy%3A1%2C_ssQ%3A%5B%222022-12-13T23%3A41%3A02.115Z%22%5D%2C_slq%3A%5B%5D%2C_cct%3A0%2C_sqc%3A0%2C_slc%3A0%2Ccfl%3A9223372036854776000%2CNiEn%3A%22ninaProd%22%2CLDM%3A%7Blh%3A%5B%7Bid%3A38380748%2Ccg%3A%5B%5D%7D%5D%7D%2CCHM%3A%7B%7D%2Cfst%3A1670974862115%2Clst%3A1670974862115%2C_ist%3A%22ELIGIBLE%22%2C_sesT%3A0%7D",
+      "domain": "vodafoneuk.digital.nuance.com",
+      "path": "/",
+      "expires": 1702510862,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "inqSession_10006330",
+      "value": "%7Bauu%3A0%2C_svMs%3A-1%2C_aTyp%3A3%2CASYNA%3A0%2CASYNB%3A0%2Ca0426%3A2%2CBUPTA%3A19001158%2CAGPTS%3A10006647%2CisAg%3A0%2CRestt%3A0%2ChasCH%3A0%2ChasNR%3A0%2ChasES%3A0%2CagenA%3A0%2CcMC%3A0%2CaMC%3A0%2CNANSE%3A%22%22%2CNANIN%3A%22%22%2CENTBU%3A0%2CCONBU%3A1%2CCARTG%3A0%2CCGmap%3A%5B%7Bkey%3A%22ATGRCtc%22%2Cvalue%3A0%7D%2C%7Bkey%3A%22ATGRCHtc%22%2Cvalue%3A0%7D%2C%7Bkey%3A%22ATGMHtc%22%2Cvalue%3A0%7D%5D%2CECLEC%3A0%2CInact%3A0%2CCustN%3A%22%22%2CCTNo%3A%22%22%2CeMail%3A%22%22%2CDETob%3A0%2CiSEE%3A0%2CbCSF%3A0%2Csrvyl%3A0%2CEQcsV%3A0%2CNRcsV%3A0%2Cvanri%3A%22%22%2Cvaact%3A%22%22%2Cvaru%3A%22%22%2Ccr%3A%22%22%2CoTB%3A0%2Cvcor%3A%22%22%2Ccntr%3A%22%22%2CFAQr%3A85%2CFAQs%3A%22IBM%22%2Ca5189%3A39%2CPCSbr%3A0%2Cismda%3A0%2Cagct%3A0%2Ccmsct%3A0%2CsjE3j%3A1%2CjfneD%3A1%2Ccusct%3A0%2Cercag%3A10006369%2Ctraag%3A10006333%2Crccn%3A4%2Cabspl%3A14%2CpteC%3A100%2CptHS%3A100%2CptSUI%3A100%2CVLEC%3A0%2CATGSE%3A0%2CRCGSE%3A0%2CREGSE%3A0%2CGENSP%3A0%2CCHM%3A%7Bpmor%3Afalse%7D%2C_ssID%3A%221884162686303790321%22%2Crd%3A%22%22%2Csest%3A%22%22%2C_sT%3A0%2Cltt%3A1670974862128%7D",
+      "domain": "vodafoneuk.digital.nuance.com",
+      "path": "/",
+      "expires": 1702510862,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "inqVital_10006330",
+      "value": "%7BINQ%3A%7BcustID%3A%22188416268630379032%22%7D%2Cv%3A3%2Cvcnt%3A16%2Cvtime%3A1670974862129%2C_acid%3A%22-1%22%2C_ss%3A%22unsold%22%2CCHM%3A%7Blpt%3A0%2ClastChat%3A%7B%7D%2ClastCallId%3A0%7D%2C_is%3A1670974862129%2C_iID%3A%221884162686303790321%22%2C_ig%3A%22CHAT%22%7D",
+      "domain": "vodafoneuk.digital.nuance.com",
+      "path": "/",
+      "expires": 1702510862,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.vodafone.co.uk",
+      "localStorage": [
+        {
+          "name": "inqTracking",
+          "value": "0"
+        }
+      ]
+    }
+  ]
+}
